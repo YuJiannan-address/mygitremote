@@ -1,0 +1,31 @@
+﻿文件说明：
+1. 代码压缩包 Minicat.rar
+2. webapps.rar 为演示项目演示压缩包，请解压到 /Users 下。因为 server.xml 中配置了 appBase="/Users/webapps"
+
+   demo1：包含了Servlet与静态html文件
+   demo2：只包含了Servlet
+   demo3：只包含了静态html文件 （不包含 web.xml 文件）
+
+演示说明：
+1. 启动 Bootstrap 类
+2. 打开浏览器
+
+------------------------------------------
+测试demo1：
+ http://localhost:8080/demo1/lagou                ---- 对应 demo1/server/LagouServlet.class
+ http://localhost:8080/demo1/test1                ---- 对应 demo1/test/TestServlet1.class
+ http://localhost:8080/demo1/test2                ---- 对应 demo1/test/TestServlet2.class
+ http://localhost:8080/demo1/aaa.html             ---- 对应 demo1/aaa.html 静态文件
+ http://localhost:8080/demo1/bbb.html             ---- 对应 demo1/bbb.html 静态文件
+ http://localhost:8080/demo1/server/ccc.html      ---- 对应 demo1/server/ccc.html 静态文件
+
+
+------------------------------------------
+测试demo2：
+ http://localhost:8080/demo2/test                 ---- 对应 demo2/test/Demo2Servlet.class
+
+
+------------------------------------------
+测试demo3：
+ http://localhost:8080/demo3/demo3.html           ---- 对应 demo3/test/demo3.html 静态文件
+
