@@ -1,0 +1,6 @@
+com\lagou\edu\interceptor\PermissionInterceptor.class
+com\lagou\edu\controller\UserController.class
+com\lagou\edu\dao\ResumeDao.class
+com\lagou\edu\config\RedisConfiguration.class
+com\lagou\edu\dto\LoginDTO.class
+com\lagou\edu\pojo\Resume.class
