@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2ed6f16-bce3-4517-ae09-720063720db8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_common/src/main/java/com/newice/service/JSONDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_common/src/main/java/com/newice/service/JSONDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_common/src/main/java/com/newice/service/JSONEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_common/src/main/java/com/newice/service/JSONEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_common/src/main/java/com/newice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_common/src/main/java/com/newice/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_consumer/src/main/java/com/newice/client/ClientBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_consumer/src/main/java/com/newice/client/ClientBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_consumer/src/main/java/com/newice/client/RpcConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_consumer/src/main/java/com/newice/client/RpcConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_provider/src/main/java/com/newice/service/handler/UserServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_provider/src/main/java/com/newice/service/handler/UserServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_provider/src/main/java/com/newice/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ice_rpc/ice_rpc_provider/src/main/java/com/newice/service/impl/UserServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/green/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btpTJ3Gcoaz5OnI5axIbArOikt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zdy_rpc_consumer/src/main/java/com/lagou/client" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.service" />
+      <recent name="com.lagou" />
+      <recent name="com.lagou.util" />
+      <recent name="com.lagou.handler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\LG\3\1\homework\zdy_rpc\zdy_rpc_consumer\src\main\java\com\lagou\client" />
+      <recent name="E:\LG\3\1\homework\zdy_rpc\zdy_rpc_common\src\main\java\com\lagou\service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientBootStrap">
+    <configuration name="ClientBootStrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lagou.client.ClientBootStrap" />
+      <module name="zdy_rpc_consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lagou.ServerBootstrap" />
+      <module name="zdy_rpc_provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientBootStrap" />
+        <item itemvalue="Application.ServerBootstrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2ed6f16-bce3-4517-ae09-720063720db8" name="Default Changelist" comment="" />
+      <created>1589461250496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589461250496</updated>
+      <workItem from="1589461251684" duration="71000" />
+      <workItem from="1589461337437" duration="31000" />
+      <workItem from="1589468929262" duration="3008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="119" key="FileChooserDialogImpl" timestamp="1589469008171">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="119" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1589469008171" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1589471963746">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589471963746" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1589471963746">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589471963746" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1589471963746">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589471963746" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1589471963746">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589471963746" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1589471963746">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589471963746" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1589471963746">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1589471963746" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1589471963746">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1589471963746" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1589471963746">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1589471963746" />
+    <state x="440" y="127" key="NewModule_or_Project.wizard" timestamp="1589469009531">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="440" y="127" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1589469009531" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1589469011801">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1589469011801" />
+    <state x="480" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1589461338219">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589461338219" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1589461305378">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1589461305378" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdy_rpc_provider/src/main/java/com/lagou/handler/UserServerHandler.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdy_rpc_consumer/src/main/java/com/lagou/client/ClientBootStrap.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdy_rpc_common/src/main/java/com/lagou/service/JSONDecoder.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
